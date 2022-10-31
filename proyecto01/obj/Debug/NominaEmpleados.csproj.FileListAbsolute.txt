@@ -1,0 +1,108 @@
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe.config
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.pdb
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csprojResolveAssemblyReference.cache
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Properties.Resources.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.GenerateResource.Cache
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.exe
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.pdb
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.FCarga.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Login.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Lobby.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.ControlPagos.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.DatosEmpleado.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Empleados.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Configuracion1.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.MostrarEmpleados.resources
+C:\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.HistoricoNomina.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe.config
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.pdb
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.pdb
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Configuracion1.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.ControlPagos.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.DatosEmpleado.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.FCarga.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.HistoricoNomina.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Lobby.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Login.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.MostrarEmpleados.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Empleados.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Properties.Resources.resources
+C:\Users\Carlos W. Quezada\Desktop\Semestre 2021-02\Documents\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.GenerateResource.Cache
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe.config
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.pdb
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.pdb
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Configuracion1.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.ControlPagos.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.DatosEmpleado.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.FCarga.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.HistoricoNomina.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Lobby.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Login.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.MostrarEmpleados.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Empleados.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Properties.Resources.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.GenerateResource.Cache
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe.config
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.pdb
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.AssemblyReference.cache
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Configuracion1.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.ControlPagos.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.DatosEmpleado.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.FCarga.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.HistoricoNomina.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Lobby.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Login.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.MostrarEmpleados.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Empleados.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Properties.Resources.resources
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.GenerateResource.cache
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Desktop\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.pdb
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe.config
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.pdb
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.AssemblyReference.cache
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Configuracion1.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.ControlPagos.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.DatosEmpleado.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.FCarga.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.HistoricoNomina.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Lobby.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Login.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.MostrarEmpleados.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Empleados.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Properties.Resources.resources
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.GenerateResource.cache
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.exe
+C:\Users\Carlos W. Quezada\Documents\2022-01\Ing de software 2\Unidad 1\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.pdb
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe.config
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.exe
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\bin\Debug\NominaEmpleados.pdb
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.AssemblyReference.cache
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Configuracion1.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.ControlPagos.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.DatosEmpleado.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.FCarga.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.HistoricoNomina.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Lobby.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Login.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.MostrarEmpleados.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Empleados.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.Properties.Resources.resources
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.GenerateResource.cache
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.exe
+C:\Users\d19b9590\Downloads\Ingeniería de Software II\Proyecto nomina\NominaEmpleados\NominaEmpleados\obj\Debug\NominaEmpleados.pdb
